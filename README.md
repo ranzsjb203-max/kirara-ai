@@ -1,4 +1,4 @@
-
+支持 DeepSeek、ChatGPT、Claude 等多个大语言模型，随心切换，灵活应对
 <p align="center">
   <h2 align="center">Kirara AI</h2>
   <p align="center">
